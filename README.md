@@ -1,15 +1,15 @@
 # git
 
-[共同開発メモ]('documents/git共同開発.md')
+[共同開発メモ]('docs/git共同開発.md')
 # ruby on rails
 
-[rails ハマりどこ]('documents/ruby_rails_problems.md')<br>
-[rails console]('documents/rails_console.md')
+[rails ハマりどこ]('docs/ruby_rails_problems.md')<br>
+[rails console]('docs/rails_console.md')
 # docker
 
-[docker事始め]('documents/docker入門.md')<br>
-[dockerQ&A]('documents/dockerQ&A')
+[docker事始め]('docs/docker入門.md')<br>
+[dockerQ&A]('docs/dockerQ&A')
 
 # LIFE
 
-[mac購入テク]('documents/macを安く買う方法.md')
+[mac購入テク]('docs/macを安く買う方法.md')
